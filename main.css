@@ -1,0 +1,29 @@
+.site-name {
+  color: white;
+  font-weight: bold;
+  font-style: italic;
+  background-color: firebrick;
+}
+
+body {
+  background-image: url(https://wpassets.brainstation.io/app/uploads/2017/04/13100509/Netflix-Background.jpg);
+}
+
+.about-text {
+  color: white;
+  font-weight: bold;
+  font-style: unset;
+  font-size: 30px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.Back {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  font-style: unset;
+  font-size: 30px;
+}
